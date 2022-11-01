@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "release": "auto shipit"
+  },
+  "devDependencies": {
+    "@auto-it/docker": "^10.37.6",
+    "@auto-it/git-tag": "^10.37.6",
+    "auto": "^10.37.6"
+  }
+}

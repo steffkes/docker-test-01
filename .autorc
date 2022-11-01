@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "git-tag",
+    "released"
+  ],
+  "owner": "steffkes",
+  "repo": "docker-test-01",
+  "name": "docker-test-01--releaser",
+  "email": "docker-test-01--releaser@localhost"
+}
